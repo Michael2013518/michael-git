@@ -38,9 +38,13 @@ git revert bb95e87 (id) /恢复文件的历史版本/
 git reset --soft bb95e87 / --mixed| --hard，重置提交，控制头部指针/
 
 git stash save files /保存工作进度/
+
 git stash list    /显示暂存工作进度/
+
 git stash show -p stash@{0} /对比工作进度跟现在工作目录区别/
+
 git stash apply stash{0} /恢复工作进度/
+
 git stash drop stash{0} /删除工作进度/
 
 git branch -m bugfix hotfix /重命名分支/
