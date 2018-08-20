@@ -1,7 +1,5 @@
-<!--
-* HTML5
-*jQUERY
-*javascript
-*CSS3
- -->
-Boostrap
+## Git Command for project
+> 1. Bootstrap
+> 2. jQuery
+> 3. HTML5 + CSS3
+> 4.font library
